@@ -217,13 +217,8 @@ ul > li {
   box-shadow: 0px 10px 50px rgb(36 35 220 / 30%);
 }
 
-#switzerland {
+.country {
   height: 100;
-}
-
-#uk {
-  height: 100;
-  margin: 15px;
 }
 
 #path {
